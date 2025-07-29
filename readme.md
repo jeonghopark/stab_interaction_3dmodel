@@ -2,6 +2,12 @@
 
 This repository contains STL models designed for a stab interaction project using Arduino and sensors.
 
+### Project
+[https://github.com/jeonghopark/stab_interaction_modechange](https://github.com/jeonghopark/stab_interaction_modechange)
+
+### Arduino
+[https://github.com/jeonghopark/stab_nano33_iot_twomic_a](https://github.com/jeonghopark/stab_nano33_iot_twomic_a)
+
 ![images/stab_nano33_iot_twomic_a_1.jpg](images/stab_nano33_iot_twomic_a_1.jpg)
 
 ## Contents
